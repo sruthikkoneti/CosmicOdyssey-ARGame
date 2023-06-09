@@ -44,6 +44,9 @@ This is an augmented reality game and players must use their smartphone to shoot
 - Buttons in Pause Menu to resume the game and to Quit the Game 
 - Game built for Android API level 24 and above.
 
+## Demo
+
+
 ## Assets Used
 
 
