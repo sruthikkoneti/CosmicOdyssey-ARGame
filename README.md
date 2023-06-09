@@ -44,10 +44,9 @@ This is an augmented reality game and players must use their smartphone to shoot
 - Buttons in Pause Menu to resume the game and to Quit the Game 
 - Game built for Android API level 24 and above.
 
-## Demo
 
-https://github.com/sruthikkoneti/CosmicOdyssey-ARGame/assets/97946223/3895d92a-05ae-42a9-864d-f081c442bab2
-https://github.com/sruthikkoneti/CosmicOdyssey-ARGame/assets/97946223/7dd7601d-b5b3-488c-bf83-b792fba2fe3b
+
+
 
 
 ## Assets Used
